@@ -1,0 +1,180 @@
+body {margin-left: auto; margin-right: auto; margin-top: 0px;  width: 100%; max-width: 1280px; background-color: url(../images/background.gif) ; font-family: arial; font-size: 12px ;}
+
+body {
+	width: 100%; max-width: 1280px;
+}
+
+header { position: relative ; margin: 0 px ; background-color: #9900CC ; text-align: center ; width: 100% ; max-width: 1276px; height: 170px; border: solid black 2px;
+}
+
+header {
+	width: 100%; max-width: 1280px;
+}
+
+.m_c { position: relative ; margin: 0px; width: 85%; text-transform: uppercase ; font-family: impact ; font-weight: bold ; padding-top: 20px ; text-align: center; float: left; 
+}
+
+.m_c {max-width: 85%;}
+
+
+.contact {
+    position: relative; margin: 0px; width: 100%; font-size: 150%; font-weight: bolder;color: white; padding-top: 130px;  
+}
+
+
+header h1 { position: relative; margin: 0px; font-size: 480% ; color: #E8F008 ; text-align: center;}
+
+header span {position: relative; margin: 0px; width: 80%; font-size: 400% ; color: antiquewhite; text-align: center;}
+
+.logo {position: relative ; margin: 0px ; width: 14% ; height: auto; float: left ;  padding: 0.5%;}
+
+header img {width: 14%px; max-width:100%;}
+
+.menu_bar { position: relative ; margin: 0px;
+    background-color: darkgreen;
+    width: 100%; max-width: 1280px;
+    height: auto ;
+    text-transform: capitalize;
+    font-size: 150% ;
+    text-align: center;
+    border-bottom: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+}
+
+.menu_bar {100%; max-width: 1280px;}
+
+.menu_bar a {position: relative;
+    color: aqua; font-family: 'arial' ;
+    text-decoration: none ;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    text-align: center;
+    float: inherit;
+    }
+
+.menu_bar a:hover {color: white;}
+
+.menu_bar .active {border-radius: 15%;
+    background-color: orange;
+    color: white; 
+}
+
+.address marquee {
+    position: relative; width:  100%; max-width: 1280px; font-size: 180%; font-style: oblique; background-color: darkred; color: yellow;
+}
+
+main {position: relative; margin-top: 0px; width: 100%;  max-width: 1280px; height: auto; float: left; background-color:lightgreen; border-left: solid black 2px; border-right: solid black 2px; border-bottom: solid black 2px; }
+
+main {100%; max-width: 1280px;}
+
+.section1 {
+    position: relative; margin: 0px; height: auto; width: 100%; max-width: 1280px; font-size: 180%; font-weight: bold;}
+
+
+.section1 .parag1 {position: relative; margin: 0px; width: 69%; text-align: justify; padding: 0% 0% 0% 0%; float: left;}
+
+
+.section1 .parag1 p {margin: 0px; width: 100%;}
+
+.section1 .img1 {position: relative; padding: 1%; width: 28%; height: auto; float: left;}
+
+.img1 img {
+	position: relative; margin: 0px; width: 100%; height: 270px;; background-color: darkgreen; border-radius: 25px;
+}
+
+.section2 {
+    position: relative; margin: 0px; height: auto; width: 100%; max-width: 1280px; font-size: 160%; font-weight: bold;}
+
+
+.section2 {width: 100; max-width: 1280px;}
+
+.section2 .parag2 {position: relative; margin: 0px; width: 62%; padding: 3% 0% 2% 0%; text-align: justify; float: left;}
+
+.parag2 img {position: relative; margin: 0px; width: 8%; padding: 0% 2% 0% 2%; text-align: left; float: left;}
+
+.wishes {position: relative; margin: 0px; width: 37%; padding: 1% 1% 1% 0%; text-align: left; float: right;}
+
+.wishes {width: 37%; max-width: 100%; }
+
+.wishes img {
+	position: relative; margin: 0px; width: 100%; height: 250px; border-radius: 35px; float: right; padding: 0% 0% 0% 0%; }
+
+.slogan {
+	position: relative; margin: 0px; background-color: yellow; width: 100%; height: auto; font-size: 250%; font-weight: 800%; text-align: center; border-radius: 75px;  
+}
+
+.sea_course {
+	position: relative; margin: 0px; font-size: 150%; text-align: center;}
+
+.sea_course {100%; max-width: 1280px;}
+
+.sea_course a {
+	position: relative; 100%; height: auto; margin: 0%; background-color: white; text-align: center;text-decoration: none;  border-radius: 15px; padding: 5px;
+}
+
+.sea_course p {
+	position: relative; width: 21%; height: auto; margin: 2%; background-color: black; text-align: center; float: left; border-radius: 15px; color: white;
+}
+
+.items {
+	position: relative; margin: 1%; width: 98%; max-width: 1280px;
+}
+
+.images {
+	position: relative; margin: 1%; width: 47%; float: left;  background-color: darkmagenta; border: solid gray 5px; text-align: center; color: white; font-size: 180%; font-weight: 800;}
+
+
+.images img {
+	width: 100%; height: auto; border-radius: 15px;	 
+}
+
+
+.offoer {
+	position: relative; margin-left: 50px; width: 90%; height: auto; background-color: white; color: darkblue; font-size: 350%; padding: 10px; text-align: center; font-weight: 600; text-transform: uppercase; border-radius: 50px; 
+	line-height: inherit;
+}
+
+.offoer img {float: left;}
+
+
+
+
+
+footer { position: relative ; margin: 0px;
+    background-color: dimgray;
+    width: 100%; max-width: 1280px;
+    height: auto ;
+    text-transform: capitalize;
+    font-size: 150% ;
+    text-align: left;
+}
+
+footer a {position: relative;
+    color: aqua; font-family: 'arial' ;
+    text-decoration: none ;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: inherit;
+    }
+
+footer a:hover {color: white;}
+
+.f_container1 .active {background-color: chocolate; color: aliceblue;}
+
+.f_container2 {
+	position: relative; margin: 0px; width: 50%; float: right; color: white;text-align: right; padding-right: 10px;
+}
+
+.f_container3 {
+	position: relative; margin: 0px; width: 100%; color: white; text-align: center;
+}
+
+
+
+.Under_Construction { position: relative; margin: 0px;    
+    text-align: center; width: 95%; margin: 2%;  height: auto; font-size: 400%; background-color: yellow; color: blue; border: solid black 10px;
+}
+
+
+.clear {clear: both ;}
